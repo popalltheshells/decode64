@@ -10,7 +10,7 @@ Welcome to **decode64**, a PowerShell script designed to simplify the process of
 
 ## Motivation
 
-As developers, we often encounter scenarios where obfuscated strings might contain valuable information, yet extracting that information can be a time-consuming task. **decode64** was created to streamline this process by automating the retrieval and decoding of Base64 strings from web pages.
+As hackers, we often encounter scenarios where obfuscated strings might contain valuable information, yet extracting that information can be a time-consuming task. **decode64** was created to streamline this process by automating the retrieval and decoding of Base64 strings from web pages.
 
 ## Features
 
