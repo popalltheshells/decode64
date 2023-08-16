@@ -32,3 +32,5 @@ Enter a URL to decode Base64 strings from (or type 'exit' to quit)
 > https://www.example.com
 Base64 String: SGVsbG8gV29ybGQh
 Decoded Text: Hello World!
+
+![image](https://github.com/popalltheshells/decode64/assets/6753178/581cf690-63d9-4006-83de-563589ba27f9)
