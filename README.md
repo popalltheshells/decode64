@@ -24,6 +24,9 @@ As developers, we often encounter scenarios where obfuscated strings might conta
 3. Navigate to the directory where the script is located.
 4. Run the script using the command: `.\decode64.ps1`.
 
+![image](https://github.com/popalltheshells/decode64/assets/6753178/ae65f768-7eeb-437d-9138-c341b5723353)
+
+
 ## Example
 
 ```powershell
@@ -32,5 +35,3 @@ Enter a URL to decode Base64 strings from (or type 'exit' to quit)
 > https://www.example.com
 Base64 String: SGVsbG8gV29ybGQh
 Decoded Text: Hello World!
-
-![image](https://github.com/popalltheshells/decode64/assets/6753178/581cf690-63d9-4006-83de-563589ba27f9)
